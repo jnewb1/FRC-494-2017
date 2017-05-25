@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1104744751.2017904325/FWD/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1104744751.2017904325/FWD/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1104744751.2017904325/FWD/value=\\usr\\local\\bin;C\:/Program Files/Java/jre1.8.0_111/bin/server;C\:/Program Files/Java/jre1.8.0_111/bin;C\:/Program Files/Java/jre1.8.0_111/lib/amd64;C\:\\ProgramData\\Oracle\\Java\\javapath;C\:\\WINDOWS\\system32;C\:\\WINDOWS;C\:\\WINDOWS\\System32\\Wbem;C\:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\;C\:\\Program Files (x86)\\Microsoft Emulator Manager\\1.0\\;C\:\\frc\\bin;C\:\\Users\\robotics\\AppData\\Local\\Microsoft\\WindowsApps;;C\:\\Users\\robotics\\Desktop
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1104744751.2017904325/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1104744751.2017904325/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1104744751/PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1104744751/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1104744751/PATH/value=C\:/frc/bin
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1104744751/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1104744751/appendContributed=true
